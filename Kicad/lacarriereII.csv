@@ -1,0 +1,54 @@
+3 Proto Budget :;168,778;€;;Mouser Order;;;;;;;;;;;;;
+;;;;Already in stock;;;;;;;;;;;;;
+;Price;VAT/Transport;;Not a component;;;;;;;;;;;;;
+Mouser Order;80,24;16,048;;Aliexpress Order;;;;;;;;;;;;;
+Aliexpress Order;10,49;10;;;;;;;;;;;;;;;
+JLCPCB Manufacturing;2;10;;;;;;;;;;;;;;;
+Review;40;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;
+Designator;Footprint;Quantity;Designation;Mouser;;;;LCSC;;;;Aliexpress;;STOCK;"ORDER
+nb";"Mouser
+Order";"Aliexpress
+Order"
+;;;;REF;Price(HT);Minimum;Manufacturer;REF;Price (€);Min;Manufacturer;Price (€);Nb min;;;;
+2V8,A3:K371V3,3V3,4V1;TestPoint_Pad_D1.5mm;4;TestPoint;;;;;;;;;;;;;;
+C14,C7,C8,C3,C16,C5,C4;C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;7;0.1u;581-KGM21NR71E104KT;0,093;1;KYOCERA AVX;C1711;0,0056;100;Samsung Electro-Mechanics;;;0;35;1,05;
+C15;CP_EIA-7343-31_Kemet-D_Pad2.25x2.55mm_HandSolder;1;100u;80-T491D107K016;0,921;1;KEMET;C110548;0,5201;1;KEMET;;;0;5;4,605;
+C17,C18,C19;C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;3;15p;581-08053A150KAT2A;0,167;1;KYOCERA AVX;C1794;0,0121;50;Samsung Electro-Mechanics;;;0;15;1,91;
+C2,C13,C10,C11,C12,C6;C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;6;1u;581-KAF21KR71H105KU;0,288;1;KYOCERA AVX;C28323;0,0083;50;Samsung Electro-Mechanics;;;44;;;
+C20;C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;1;1u(nc);;;;;;;;;;;;;;
+C9;C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;1;10u;581-0805YC106KAT2A;0,846;1;KYOCERA AVX;C15850;0,0101;50;Samsung Electro-Mechanics;;;0;10;7,47;
+CON-BAT+;SolderWire-2.5sqmm_1x02_P8.8mm_D2.4mm_OD4.4mm;1;LiFePo4;;;;;;;;;;;;;;
+CON-SOL+;SolderWire-2.5sqmm_1x02_P8.8mm_D2.4mm_OD4.4mm;1;Solar_Cell;;;;;;;;;;;;;;
+J1;USB_C_Receptacle_HRO_TYPE-C-31-M-12;1;USB_C_Receptacle_USB2.0;640-USB4105-GF-A-120;0,772;1;GCT;C167321;0,3374;5;Jing Extension of the Elec Co.;;;0;5;3,86;
+J2;CENTRAL-HEADER;1;Conn_02x06;;;;;;;;;0,398;10;0;5;;3,98
+J4;PinHeader_1x06_P2.54mm_Vertical (BME KIT);1;Conn_01x06_Pin;;;;;;;;;4,44;1;2;;;
+JUMPER-BAT1, JUMPER-USB1;PinSocket_1x02_P2.54mm_Vertical_SMD_Pin1Right;2;Jumper_2_Bridged;;;;;C917636;0,0387;10;XKB Connectivity;;;15;;;
+L1;XEL4030-222MEC;1;2.2u;994-XEL4030-222MEC;2,26;1;Coilcraft;C2998753;0,6235;1;Sumida;;;0;3;6,78;
+R11;R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;1;NC;;;;;;;;;;;;;;
+R14;R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;1;62k;71-CRCW080562K0FKEA;0,093;1;Vishay / Dale;C17783;0,0017;100;UNI-ROYAL(Uniroyal Elec);;;0;10;0,23;
+R16,R15,R19;R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;3;100R;71-CRCW0805-100-E3;0,093;1;Vishay / Dale;;;;;;;0;20;0,62;
+R18;R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;1;2k;71-CRCW08052K00JNEA;0,093;1;Vishay / Dale;;;;;;;0;10;0,19;
+R2;R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;1;375R(0,8A) 750R(0.4A);71-CRCW0805-750-E3;0,093;1;Vishay / Dale;;;;;;;0;10;0,23;
+R21,R20,R27,R22;R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;4;10k;71-CRCW080510K0FKEAC;0,093;1;Vishay / Dale;;;;;;;99;;;
+R24;R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;1;14k;71-CRCW0805-14K-E3;0,093;1;Vishay / Dale;;;;;;;0;10;0,23;
+R25,R26;R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;2;1M;71-CRCW08051M00FKEAC;0,093;1;Vishay / Dale;;;;;;;98;;;
+R3,R4;R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;2;5.1k;71-CRCW08055K10JNEA;0,093;1;Vishay / Dale;;;;;;;0;20;0,46;
+R6,R17,R23,R5;R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;4;100k;71-CRCW0805100KFKEBC;0,093;1;Vishay / Dale;;;;;;;0;20;0,58;
+R7,R10,R9,R8,R13,R12;R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;4;0R;71-CRCW08050000Z0EC;0,093;1;Vishay / Dale;C17477;0,0016;100;UNI-ROYAL(Uniroyal Elec);;;0;20;0,46;
+TH1;PinHeader_1x02_P2.54mm_Vertical;1;NTC;;;;;;;;;;;;;;
+U1;TSSOP-16_4.4x5mm_P0.65mm;1;PCA9557PW;595-PCA9557PWR;1,4;1;Texas Instruments;C141380;0,43;1;NXP Semicon;;;0;3;4,2;
+U10;SOT-23-3;1;XC6206P182MR-G;865-XC6206P182MR-G;0,651;1;Torex Semiconductor;C424700;0,1349;5;Torex Semiconductor;;;0;5;3,255;
+U11;ESP32-WROVER;1;ESP32_WROVER;356-ESP32WRVIE2864UC;3,15;1;Espressif Systems;C529591;3,9246;1;Espressif Systems;;;0;3;9,45;
+U14,U12,U16;F34G1A7Q1E8C24;3;~;649-F34G1A7Q1E8C24;0,437;1;Amphenol Aorora;C5373439;0,0636;5;SHOU HAN;;;0;10;3,71;
+U15,U13;Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering;2;BME280;262-BME280;5,9;1;Bosch Sensortec;C92489;3,4781;1;Bosch Sensortec;;;0;4;23,6;
+U2;VSON10_BQ25171_3X3_TEX-M;1;BQ25171QWDRCRQ1;595-BQ25171QWDRCRQ1;1,71;1;Texas Instruments;C2861221;1,3995;1;Texas Instruments;;;12;;;
+U3;SOIC-16_3.9x9.9mm_P1.27mm;1;CH340C;;;;;C84681;0,4433;1;WCH(Jiangsu Qin Heng);0,468;5;0;5;;2,34
+U4;SOT-363_SC-70-6;1;UMH3N;755-UMH3NTN;0,428;1;ROHM Semiconductor;C62892;0,0502;10;Jiangsu Changjing;;;0;5;2,14;
+U5;SIM800L-CORE;1;SIM800L-CORE;;;;;;;;;2,77;1;2;;;
+U6;SOT-23-6_Handsoldering;1;FS8205;;;;;C32254;0,169;5;Fortune Semicon;0,098;10;0;5;;0,98
+U7;SOT-23-6_Handsoldering;1;HY2112 (HB);;;;;C168763;0,1222;5;HYCON Tech;0,319;10;0;5;;3,19
+U8;SOT-23-6_Handsoldering;1;TLV61070A;595-TLV61070ADBVR;0,465;1;Texas Instruments;C6881375;0,2857;5;Texas Instruments;;;0;5;2,325;
+U9;SOT-23-3;1;XC6206P252MR-G;865-XC6206P252MR-G;0,577;1;Torex Semiconductor;C5250983;0,0168;20;TWGMC;;;0;5;2,885;
+;;74;;;;;;;;;;;;;;80,24;10,49
