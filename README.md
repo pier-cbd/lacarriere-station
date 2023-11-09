@@ -6,6 +6,7 @@
 - Three VGA cameras to take 360° photos
 - Measures temperature/humidity/pressure with Bosch sensors
 - Sends data via 2G+ network
+<img src="./Stage1/Docs/stage1.png" width="600" />
 
 ### Stage 2
 ...
