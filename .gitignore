@@ -1,3 +1,7 @@
 fp-info-cache
 *.kicad_prl
 *-backups
+*.kicad_sch-bak
+*desktop.ini
+*#auto_saved_files#
+*_autosave*
