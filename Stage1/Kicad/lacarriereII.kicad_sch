@@ -7345,7 +7345,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 240.03 163.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 748f48fd-e2d8-4343-827d-98029cab8cc2)
-    (property "Reference" "2V1" (at 234.95 160.02 0)
+    (property "Reference" "2V8" (at 234.95 160.02 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (at 242.57 162.433 0)
@@ -7361,7 +7361,7 @@
     (instances
       (project "lacarriereII"
         (path "/3c8426f4-ef7d-418b-9048-6c57d75d81b5"
-          (reference "2V1") (unit 1)
+          (reference "2V8") (unit 1)
         )
       )
     )
@@ -8496,7 +8496,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 205.74 146.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bd422cb8-99eb-4275-8499-013ec29520d8)
-    (property "Reference" "3V1" (at 204.47 140.97 0)
+    (property "Reference" "3V3" (at 204.47 140.97 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (at 208.28 144.653 0)
@@ -8512,7 +8512,7 @@
     (instances
       (project "lacarriereII"
         (path "/3c8426f4-ef7d-418b-9048-6c57d75d81b5"
-          (reference "3V1") (unit 1)
+          (reference "3V3") (unit 1)
         )
       )
     )
@@ -8854,7 +8854,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 240.03 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e53e9bba-3d19-4a81-b9a8-eccd28dc5f34)
-    (property "Reference" "1V1" (at 234.95 175.26 0)
+    (property "Reference" "1V3" (at 234.95 175.26 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (at 242.57 177.673 0)
@@ -8870,7 +8870,7 @@
     (instances
       (project "lacarriereII"
         (path "/3c8426f4-ef7d-418b-9048-6c57d75d81b5"
-          (reference "1V1") (unit 1)
+          (reference "1V3") (unit 1)
         )
       )
     )
